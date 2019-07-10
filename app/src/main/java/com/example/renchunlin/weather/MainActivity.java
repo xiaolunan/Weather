@@ -25,7 +25,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
 
     private Spinner mSpinner;
-
+    private static final int a=12;
     //获取
     private Button btn_get;
     //城市
